@@ -1,2 +1,2 @@
 seq.zip, row abl sequencing
-Library.csv, 
+Library.csv, input primer
